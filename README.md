@@ -14,6 +14,9 @@ Initial work in jupyter notebook as an ipython notebook
 
 
 ## Clean Data
+Original dataset we used is from the Chicago Data Portal and can be found here:
+https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data
+
 ### Violations
   * First step is to pull out unique list of violations and count their occurrences
   * Visualize violations using pareto chart
