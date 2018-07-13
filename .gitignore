@@ -1,3 +1,4 @@
 DATA/*.csv
 MAPS/.ipynb_checkpoints
 MAPS/inspection_heat_map_screenshots/Origionals
+!DATA/violation_titles.csv
