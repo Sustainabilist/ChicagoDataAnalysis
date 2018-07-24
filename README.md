@@ -1,9 +1,8 @@
 # ChicagoDataAnalysis
 
 ## Description
-Tutorial for cleaning, analyzing, and displaying insights from the Chicago Food Inspection dataset.
 
-Initial work in jupyter notebook as an ipython notebook
+Tutorial on how to download, clean, and analyze Chicago's food inspection dataset. Work was preformed using Google Collaboratory, iPython notebooks, and Anaconda’s scientific computing packages. Focus on determining violation counts and impacts for individual restaurants and grocery stores in the Chicago area. 
 
 ## Technologies used
   * jupyter
